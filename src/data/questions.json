@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "game": "Monster Hunter: World",
+    "category": "Monstres",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel monstre est surnommé le 'Roi des Cieux' ?",
+      "en": "Which monster is known as the 'King of the Skies'?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Rathalos", "en": "Rathalos" },
+      { "id": "B", "fr": "Nargacuga", "en": "Nargacuga" },
+      { "id": "C", "fr": "Zinogre", "en": "Zinogre" },
+      { "id": "D", "fr": "Diablos", "en": "Diablos" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "fr": "Rathalos est surnommé le 'Roi des Cieux' en raison de sa domination aérienne et de son rôle emblématique dans la série Monster Hunter.",
+      "en": "Rathalos is nicknamed the 'King of the Skies' due to its aerial dominance and iconic role in the Monster Hunter series."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter: World Official Guide",
+        "url": "https://game.capcom.com/manual/mhw/fr/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "game": "Monster Hunter: World",
+    "category": "Monstres",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel monstre est connu pour cracher du feu et avoir une queue en forme de massue ?",
+      "en": "Which monster is known for spitting fire and having a club-shaped tail?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Anjanath", "en": "Anjanath" },
+      { "id": "B", "fr": "Tobi-Kadachi", "en": "Tobi-Kadachi" },
+      { "id": "C", "fr": "Pukei-Pukei", "en": "Pukei-Pukei" },
+      { "id": "D", "fr": "Jyuratodus", "en": "Jyuratodus" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "fr": "Anjanath est un grand monstre de type Wyverne connu pour ses attaques de feu et sa queue massive en forme de massue.",
+      "en": "Anjanath is a large Wyvern monster known for its fire attacks and massive club-shaped tail."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter: World Official Website",
+        "url": "https://www.monsterhunter.com/world/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "game": "Monster Hunter Rise",
+    "category": "Monstres",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel monstre ressemble à un loup et utilise des attaques électriques ?",
+      "en": "Which monster resembles a wolf and uses electric attacks?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Zinogre", "en": "Zinogre" },
+      { "id": "B", "fr": "Magnamalo", "en": "Magnamalo" },
+      { "id": "C", "fr": "Narwa", "en": "Narwa" },
+      { "id": "D", "fr": "Goss Harag", "en": "Goss Harag" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "fr": "Zinogre est un monstre de type Fanged Beast qui ressemble à un loup et génère de l'électricité dans son corps.",
+      "en": "Zinogre is a Fanged Beast monster that resembles a wolf and generates electricity in its body."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter Rise Official Guide",
+        "url": "https://game.capcom.com/manual/mhrise/fr/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "game": "Monster Hunter Generations Ultimate",
+    "category": "Monstres",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel monstre est connu pour son armure naturelle et ses attaques de glace ?",
+      "en": "Which monster is known for its natural armor and ice attacks?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Glavenus", "en": "Glavenus" },
+      { "id": "B", "fr": "Barioth", "en": "Barioth" },
+      { "id": "C", "fr": "Tigrex", "en": "Tigrex" },
+      { "id": "D", "fr": "Nargacuga", "en": "Nargacuga" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "fr": "Barioth est un monstre de type Wyverne Volant couvert d'une armure naturelle et utilise des attaques de glace.",
+      "en": "Barioth is a Flying Wyvern monster covered in natural armor and uses ice attacks."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter Generations Ultimate Official Website",
+        "url": "https://www.monsterhunter.com/generations/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "game": "Monster Hunter: World",
+    "category": "Armes",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle arme est connue pour sa grande portée et ses attaques à distance ?",
+      "en": "Which weapon is known for its long range and ranged attacks?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Épée et bouclier", "en": "Sword and Shield" },
+      { "id": "B", "fr": "Arc long", "en": "Long Bow" },
+      { "id": "C", "fr": "Hache chargeuse", "en": "Charge Blade" },
+      { "id": "D", "fr": "Lance", "en": "Lance" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "fr": "L'arc long est une arme de tir à longue portée, idéale pour les attaques à distance.",
+      "en": "The Long Bow is a long-range shooting weapon, ideal for ranged attacks."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter: World Weapon Guide",
+        "url": "https://game.capcom.com/manual/mhw/fr/weapon/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "game": "Monster Hunter Rise",
+    "category": "Armes",
+    "difficulty": "normal",
+    "question": {
+      "fr": "Quelle arme permet d'esquiver rapidement tout en infligeant des dégâts élevés ?",
+      "en": "Which weapon allows for quick dodging while dealing high damage?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Épée longue", "en": "Long Sword" },
+      { "id": "B", "fr": "Épée et bouclier", "en": "Sword and Shield" },
+      { "id": "C", "fr": "Double lame", "en": "Dual Blades" },
+      { "id": "D", "fr": "Hache sauteuse", "en": "Insect Glaive" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "fr": "Les doubles lames permettent une mobilité élevée et des attaques rapides en mode démon, ce qui facilite les esquives tout en infligeant des dégâts élevés.",
+      "en": "Dual Blades allow high mobility and rapid attacks in Demon Mode, making it easy to dodge while dealing high damage."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter Rise Weapon Guide",
+        "url": "https://game.capcom.com/manual/mhrise/fr/weapon/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "game": "Monster Hunter: World",
+    "category": "Gameplay",
+    "difficulty": "normal",
+    "question": {
+      "fr": "Quel objet permet de soigner rapidement pendant un combat ?",
+      "en": "Which item allows for quick healing during combat?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Potion de vie", "en": "Health Potion" },
+      { "id": "B", "fr": "Antidote", "en": "Antidote" },
+      { "id": "C", "fr": "Nourriture de chasseur", "en": "Hunter's Meal" },
+      { "id": "D", "fr": "Poudre de guérison", "en": "Healing Powder" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "fr": "La potion de vie est l'objet de base pour soigner rapidement pendant un combat.",
+      "en": "The Health Potion is the basic item for quick healing during combat."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter: World Item Guide",
+        "url": "https://game.capcom.com/manual/mhw/fr/item/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "game": "Monster Hunter Generations Ultimate",
+    "category": "Lore",
+    "difficulty": "normal",
+    "question": {
+      "fr": "Quel est le nom du village principal dans Monster Hunter Generations Ultimate ?",
+      "en": "What is the name of the main village in Monster Hunter Generations Ultimate?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Astera", "en": "Astera" },
+      { "id": "B", "fr": "Bherna", "en": "Bherna" },
+      { "id": "C", "fr": "Kamura", "en": "Kamura" },
+      { "id": "D", "fr": "Dondruma", "en": "Dondruma" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "fr": "Bherna est le village principal dans Monster Hunter Generations Ultimate, où les chasseurs se préparent pour leurs quêtes.",
+      "en": "Bherna is the main village in Monster Hunter Generations Ultimate, where hunters prepare for their quests."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter Generations Ultimate Official Guide",
+        "url": "https://game.capcom.com/manual/mhgu/fr/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "game": "Monster Hunter Rise: Sunbreak",
+    "category": "Gameplay",
+    "difficulty": "normal",
+    "question": {
+      "fr": "Quelle mécanique permet de monter sur les monstres pour les attaquer ?",
+      "en": "Which mechanic allows you to ride monsters to attack them?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Wyvern Ride", "en": "Wyvern Ride" },
+      { "id": "B", "fr": "Silkbind", "en": "Silkbind" },
+      { "id": "C", "fr": "Wirebug", "en": "Wirebug" },
+      { "id": "D", "fr": "Palamute", "en": "Palamute" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "fr": "Wyvern Ride est une mécanique introduite dans Monster Hunter Rise qui permet aux chasseurs de monter sur des monstres pour les attaquer en équipe.",
+      "en": "Wyvern Ride is a mechanic introduced in Monster Hunter Rise that allows hunters to ride monsters and attack them as a team."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter Rise: Sunbreak Official Website",
+        "url": "https://www.monsterhunter.com/rise/",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "game": "Monster Hunter: World",
+    "category": "Armes",
+    "difficulty": "difficile",
+    "question": {
+      "fr": "Quelle arme utilise des phiales pour infliger des dégâts élémentaires ?",
+      "en": "Which weapon uses phials to deal elemental damage?"
+    },
+    "answers": [
+      { "id": "A", "fr": "Hache chargeuse", "en": "Charge Blade" },
+      { "id": "B", "fr": "Épée longue", "en": "Long Sword" },
+      { "id": "C", "fr": "Marteau", "en": "Hammer" },
+      { "id": "D", "fr": "Lance gun", "en": "Gunlance" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "fr": "La hache chargeuse utilise des phiales pour charger des attaques élémentaires, combinant puissance brute et dégâts élémentaires.",
+      "en": "The Charge Blade uses phials to charge elemental attacks, combining raw power with elemental damage."
+    },
+    "sources": [
+      {
+        "name": "Capcom - Monster Hunter: World Weapon Details",
+        "url": "https://game.capcom.com/manual/mhw/fr/weapon/charge_blade",
+        "type": "official",
+        "verified": true
+      }
+    ]
+  }
+]
